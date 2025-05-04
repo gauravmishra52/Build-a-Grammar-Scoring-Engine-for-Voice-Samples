@@ -1,0 +1,10 @@
+transformers 
+torchaudio 
+librosa 
+scikit-learn
+pandas 
+numpy 
+matplotlib
+tqdm
+RandomForestClassifier
+seaborn
