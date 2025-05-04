@@ -111,11 +111,8 @@ y = np.load("y_train.npy")
 
 ---
 
-## 📝 Notes
-
 - This model is tailored for SHL's spoken grammar scoring assessment.
 - You may switch to regression models if predicting continuous scores.
 - Use validation plots (confusion matrix, histograms) to better interpret performance.
 
----
-# Build-a-Grammar-Scoring-Engine-for-Voice-Samples
+
